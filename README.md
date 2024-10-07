@@ -1,5 +1,5 @@
 <div align='center'>
-    <img style='border-radius: 10px' src='https://freeimage.host/i/dpWWXp9' alt='pyrubi image' width='320' height='140'>
+    <img style='border-radius: 10px' src='https://freeimage.host/i/dpWWXp9' alt='yasha image' >
     <br>
     <br>
     <b>Fast & powerfull Rubika API library</b>
@@ -10,7 +10,7 @@
 </div>
 
 
-# Pyrubi 3.6.0
+# yasha 2.6.0
 [![Downloads](https://static.pepy.tech/badge/yasha)](https://pepy.tech/project/yasha)
 > Fast and powerfull Rubika API library for building self bots.
 
