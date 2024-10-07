@@ -73,10 +73,10 @@ client.run()
 <hr>
 
 ### Social Media:
-### <a href='https://rubika.ir/yashaka'>Rubika</a>
+### <a href='https://rubika.ir/Yashar_ghost '>Rubika</a>
 
 <hr>
 
 ### 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=abli789/yasha&type=Date)](https://star-history.com/#AliGanji1/Pyrubi&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=abli789/yasha&type=Date)](https://star-history.com/#abli789/yasha&Date)
