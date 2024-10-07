@@ -1,5 +1,5 @@
 <div align='center'>
-    <img style='border-radius: 10px' src='https://freeimage.host/i/dpWWXp9' alt='yasha image' >
+    <img style='border-radius: 10px' src='https://iili.io/dpWWXp9.jpg' alt='yasha image' >
     <br>
     <br>
     <b>Fast & powerfull Rubika API library</b>
@@ -79,4 +79,4 @@ client.run()
 
 ### 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=AliGanji1/Pyrubi&type=Date)](https://star-history.com/#AliGanji1/Pyrubi&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=abli789/yasha&type=Date)](https://star-history.com/#AliGanji1/Pyrubi&Date)
